@@ -13,4 +13,3 @@ form.addEventListener("submit", (event) => {
   event.preventDefault();
   console.log(currency.value)
 })
-irundina222@uorak.com
